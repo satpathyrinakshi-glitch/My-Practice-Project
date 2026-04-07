@@ -1,2 +1,2 @@
 # My-Practice-Project
-This project contains all non my practice classes.
+This project contains all  my practice classes.
